@@ -13,3 +13,8 @@ Fonts developed by tracing various images that are probably found in public doma
 * Python scripts - edited with PyCharm, and Thonny under [Python 3.10.1](https://www.python.org/downloads/)
 * Glyph strokes - under study
 * Ligatures - under study
+
+## Process
+* Build strokes used in Devanagari Scripts
+* Build character database as combination of strokes
+* From birdfont xml, extract glyhps svg
