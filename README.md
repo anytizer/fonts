@@ -6,10 +6,10 @@ Fonts developed by tracing various images that are probably found in public doma
 * devanagari - Unicode based characters (todo)
 
 ## Made with
-* Fonts traced and exported using [BirdFont](https://birdfont.org/#release) Plus version (*.ttf)
-* Logos made using AAA-Logo (*.al4)
+* Fonts traced and exported using [BirdFont](https://birdfont.org/#release) Plus version (`*.ttf` files)
+* Logos made using AAA-Logo (`*.al4` files)
 
 ## ToDo
-* Python scripts - edited with PyCharm, Notepad++ and Thonny
+* Python scripts - edited with PyCharm, and Thonny under [Python 3.10.1](https://www.python.org/downloads/)
 * Glyph strokes - under study
 * Ligatures - under study
