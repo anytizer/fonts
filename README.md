@@ -14,7 +14,13 @@ Fonts developed by tracing various images that are probably found in public doma
 * Glyph strokes - under study
 * Ligatures - under study
 
-## Process
-* Build strokes used in Devanagari Scripts
-* Build character database as combination of strokes
-* From birdfont xml, extract glyhps svg
+## Font Build Process in this project
+* [ ] Build a list of strokes used in as used in Devanagari Nepali.
+* [ ] Build character database as combination of strokes in [SQLite](#)
+* [ ] From birdfont xml, extract glyhps svg
+* [ ] Edit the strokes for position, decoration, widths, sizes and styles
+* [ ] Rebuilld Birdfont XML
+* [ ] Tests for fitness of individual glyphs
+* [ ] Re-Edit strokes
+* [ ] Export the font
+* [ ] Test the font using web/css
