@@ -17,7 +17,7 @@ Fonts developed by tracing various images that are probably found in public doma
 
 ## Font Build Process in this project
 * [ ] Build a list of strokes used in as used in Devanagari Nepali.
-* [ ] Build character database as combination of strokes in [SQLite](tools/strokes-list.md).
+* [ ] Build character database as combination of strokes in [SQLite](tools/strokes-database.md).
 * [ ] From birdfont xml, extract glyhps svg.
 * [ ] Edit the strokes for position, decoration, widths, sizes and styles.
 * [ ] Rebuilld Birdfont XML.
