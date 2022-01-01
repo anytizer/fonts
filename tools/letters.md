@@ -2,9 +2,9 @@ SQL:
 
 ```
 select
-	letter_name name,
-	letter_variable variable,
-	letter_strokes strokes,
+	letter_name name, '|',
+	letter_variable variable, '|',
+	letter_strokes strokes, '|',
 	letter_type type
 from tw_letters
 order by
