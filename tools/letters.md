@@ -1,4 +1,9 @@
-SQL:
+# Letters with their stroke database
+
+This page exists here to educate about how Devanagari (Nepali in particular) is composed.
+Most of the stokes are unique and named.
+
+## SQL:
 
 ```
 select
@@ -12,6 +17,7 @@ order by
 ;
 ```
 
+## Output
 name	|	variable	|	strokes	|	type
 ------|-----------|---------|------------------------
 rree	|	rree	|		|	
