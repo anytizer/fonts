@@ -1,8 +1,9 @@
 # fonts
 Fonts developed by tracing various images that are probably found in public domain.
 * mousewriting - just learning how to make fonts
-* dance - dancers
+* dance - dancers' sillhoute
 * fruits - pictures of common fruits
+* devanagari - Devanagari font (to be renamed, built and released)
 
 ## Made with
 * Fonts traced and exported using [BirdFont](https://birdfont.org/#release) Plus version (`*.ttf` files)
@@ -24,3 +25,10 @@ Fonts developed by tracing various images that are probably found in public doma
 * [ ] Re-Edit strokes.
 * [ ] Export the font.
 * [ ] Test the font using web/css.
+
+## Disclaimer
+Stroke names are used for comfort only.
+They differ as that from Sanskrit and other languages.
+
+## Help wanted
+A linguist may suggest a correct way of calligraphy in this font set, and stroke names.
