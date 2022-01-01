@@ -1,6 +1,6 @@
 # Strokes
 
-SQL:
+## SQL:
 ```
 select stroke_name name, '|', stroke_svg svg from tw_strokes order by stroke_name;
 ```
