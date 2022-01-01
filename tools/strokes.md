@@ -1,0 +1,77 @@
+# Basic strokes
+## alpa
+## avagraha
+## baahee_matraa
+## bardhaane
+## bisarga
+## chandrabindu
+## daahinaa
+## danda
+## dikaa
+## dolakke
+## eklakke
+## halanta
+## i
+## kaannaanee
+## nukta
+## petchiryo
+## prashna
+## prithvi
+## puchchhar
+## puchchhre
+## purna_biraam
+## rakaar
+## reph
+## shirbindu
+## talkure
+## terso
+## thoplo
+## u
+## vertical
+
+# Letters (half forms)
+## letter_bha
+## letter_cha
+## letter_chha
+## letter_da
+## letter_dda
+## letter_ddha
+## letter_dha
+## letter_ga
+## letter_gha
+## letter_ha
+## letter_i
+## letter_ja
+## letter_la
+## letter_ma
+## letter_na
+## letter_nna
+## letter_pa
+## letter_ra
+## letter_sha
+## letter_ta
+## letter_tha
+## letter_tta
+## letter_ttha
+## letter_wa
+## letter_ya
+## letter_yan
+
+# Ligatures
+## ligature_na
+
+# Numerals
+## numeral_aath
+## numeral_chaar
+## numeral_chha
+## numeral_dui
+## numeral_ek
+## numeral_nau
+## numeral_paanch
+## numeral_saat
+## numeral_shunya
+## numeral_teen
+
+# Symbols
+## symbol_abbr
+## symbol_om
