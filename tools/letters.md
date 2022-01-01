@@ -3,6 +3,8 @@
 This page exists here to educate about how Devanagari (Nepali in particular) is composed.
 Most of the stokes are unique and named.
 
+For actual spellings; please refer to Unicode Devanagai Block - [official document](https://www.unicode.org/charts/PDF/U0900.pdf).
+
 ## SQL:
 
 ```
@@ -20,7 +22,6 @@ order by
 ## Output
 name	|	variable	|	strokes	|	type
 ------|-----------|---------|------------------------
-rree	|	rree	|		|	
 अ	|	a	|	u, terso, danda, dikaa	|	
 आ	|	aa	|	u, terso, danda, kaannaanee, dikaa	|	
 इ	|	i	|	i, dikaa	|	
