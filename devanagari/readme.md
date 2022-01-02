@@ -1,0 +1,1 @@
+Devanagari Nepali resoures.
