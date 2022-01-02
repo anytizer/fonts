@@ -4,6 +4,7 @@ Fonts developed by tracing various images that are probably found in public doma
 * dance - dancers' sillhoute
 * fruits - pictures of common fruits
 * devanagari - Devanagari font (to be renamed, built and released)
+  * Some glyphs are just collected, and appear here for educational purpose.
 
 ## Made with
 * Fonts traced and exported using [BirdFont](https://birdfont.org/#release) Plus version (`*.ttf` files)
@@ -31,4 +32,4 @@ Stroke names are used for comfort only.
 They differ as that from Sanskrit and other languages.
 
 ## Help wanted
-A linguist may suggest a correct way of calligraphy in this font set, and stroke names.
+A linguist may suggest a correct way of calligraphy in this font set, and stroke names; so that I can adjust the database.
