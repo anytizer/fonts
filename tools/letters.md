@@ -14,38 +14,34 @@ select
 	letter_strokes strokes, '|',
 	letter_type type
 from tw_letters
+where strokes!=''
 order by
 	type, name
 ;
 ```
 
 ## Output
-name	|	variable	|	strokes	|	type
-------|-----------|---------|------------------------
+
+name	 | 	variable	 | 	strokes  | 	type
+---------|-----------------------|---------------|-------------------
 अ	|	a	|	u, terso, danda, dikaa	|	
 आ	|	aa	|	u, terso, danda, kaannaanee, dikaa	|	
 इ	|	i	|	i, dikaa	|	
 ई	|	ee	|	i, reph, dikaa	|	
 उ	|	u	|	u, dikaa	|	
 ऊ	|	oo	|	u, puchchhar, dikaa	|	
-ऋ	|	rri	|		|	
-ऌ	|	lri	|		|	
-ऍ	|	eh	|		|	
-ऎ	|	eaih	|		|	
 ए	|	e	|	letter_ra, vertical	|	
 ऐ	|	ai	|	letter_ra, vertical, eklakke	|	
 ओ	|	o	|	u, terso, danda, kaannaanee, eklakke, dikaa	|	
 औ	|	au	|	u, terso, danda, kaannaanee, dolakke, dikaa	|	
 क	|	ka	|	letter_wa, danda, puchchhar, dikaa	|	
-क्ष	|	क्ष	|		|	
 ख	|	kha	|	letter_ra, letter_wa, danda, dikaa	|	
 ग	|	ga	|	letter_ga, danda, dikaa	|	
 घ	|	gha	|	letter_gha, danda, dikaa	|	
 ङ	|	nga	|	letter_da, thoplo, dikaa	|	
 च	|	cha	|	letter_cha, danda, dikaa	|	
-छ	|	chha	|	letter_chha, dikaa	|	
+छ	|	chha	|	letter_chha, alpa, dikaa	|	
 ज	|	ja	|	letter_ja, terso, danda, dikaa	|	
-ज्ञ	|	ज्ञ	|		|	
 झ	|	jha	|	i, terso, danda, dikaa	|	
 ञ	|	nya	|	letter_nya, terso, danda, dikaa	|	
 ट	|	ta	|	letter_ta, alpa, dikaa	|	
@@ -54,7 +50,6 @@ name	|	variable	|	strokes	|	type
 ढ	|	dha	|	letter_dha, alpa, dikaa	|	
 ण	|	nna	|	letter_nna, danda, dikaa	|	
 त	|	tta	|	letter_tta, danda, dikaa	|	
-त्र	|	त्र	|		|	
 थ	|	ttha	|	letter_ttha, danda, dikaa	|	
 द	|	dda	|	letter_dda, dikaa	|	
 ध	|	ddha	|	letter_ddha, danda, dikaa	|	
@@ -75,7 +70,6 @@ name	|	variable	|	strokes	|	type
 ़	|	nukta	|	nukta	|	
 ऽ	|	avagraha	|	avagraha	|	
 ॐ	|	symbol_om	|	symbol_om	|	
-ॡ	|	ॡ	|		|	
 ०	|	numeral_shunya	|	numeral_shunya	|	
 १	|	numeral_ek	|	numeral_ek	|	
 २	|	numeral_dui	|	numeral_dui	|	
