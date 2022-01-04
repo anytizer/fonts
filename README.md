@@ -6,6 +6,8 @@ Fonts developed by tracing various images that are probably found in public doma
 * devanagari - Devanagari font (to be renamed, built and released)
   * Some glyphs are just collected, and appear here for educational purpose.
 
+![image](https://user-images.githubusercontent.com/5563341/148050202-caa38abf-4581-4dc1-8d69-c7b853ebec88.png)
+
 ## Made with
 * Fonts traced and exported using [BirdFont](https://birdfont.org/#release) Plus version (`*.ttf` files)
 * Logos made using AAA-Logo (`*.al4` files)
