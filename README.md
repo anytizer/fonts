@@ -1,4 +1,14 @@
 # fonts
+
+Collection of tools and python scripts to produce Devanagari Fonts.
+There are repeated strokes in Devanagari, like, vertical stem, horizontal like etc.
+This project identifies unique strokes used so far a Nepali subset from Devanagari.
+
+This is a proof of concept work where:
+* [] 2 or more developers can design the different characters of a font at the same time.
+* [] Nepali font with a list of database driven strokes per character.
+* [] Fixing font made easy.
+
 Fonts developed by tracing various images. The images traced were probably found in public domain.
 
 * mousewriting - just learning how to make fonts
@@ -7,7 +17,8 @@ Fonts developed by tracing various images. The images traced were probably found
 
 ## Under development:
 * devanagari - to be renamed, built and released
-* Some glyphs are just collected, and appear here for educational purpose.
+
+Some glyphs are just referenced (Poppins at Google Fonts), and may appear here for educational purpose.
 
 ![image](https://user-images.githubusercontent.com/5563341/148050202-caa38abf-4581-4dc1-8d69-c7b853ebec88.png)
 
