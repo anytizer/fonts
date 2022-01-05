@@ -1,5 +1,6 @@
 # fonts
-Fonts developed by tracing various images that are probably found in public domain.
+Fonts developed by tracing various images. The images traced were probably found in public domain.
+
 * mousewriting - just learning how to make fonts
 * dance - dancers' sillhoute
 * fruits - pictures of common fruits
@@ -21,7 +22,7 @@ Fonts developed by tracing various images that are probably found in public doma
 * Ligatures - under study
 
 ## Font Build Process in this project
-* [ ] Build a list of strokes used in as used in Devanagari Nepali.
+* [ ] Build a list of basic strokes as used in Devanagari Nepali.
 * [ ] Build character database as combination of strokes in [SQLite](tools/strokes-database.md).
 * [ ] From birdfont xml, extract glyhps svg.
 * [ ] Edit the strokes for position, decoration, widths, sizes and styles.
