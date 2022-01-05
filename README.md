@@ -23,7 +23,10 @@ Fonts developed by tracing various images. The images traced were probably found
 
 Some glyphs are just referenced (Poppins at Google Fonts), and may appear here for educational purpose.
 
+# Reference Letter 5
 ![image](https://user-images.githubusercontent.com/5563341/148050202-caa38abf-4581-4dc1-8d69-c7b853ebec88.png)
+
+This is a base letter to showcase design, slim lines, knots, tails etc.
 
 ## Made with
 * Fonts traced and exported using [BirdFont](https://birdfont.org/#release) Plus version (`*.ttf` files)
