@@ -1,3 +1,9 @@
+# References
+
+Some webpages were reviewed to build knowledge around Devanagari Writing, Calligraphy, Docuentation or generic references.
+
+Specific topics are ligatures creation as well.
+
 * https://decodeunicode.org/en
 * https://glyphsapp.com/learn/creating-a-devanagari-font
 * https://www.fontspace.com/unicode/char/090A-devanagari-letter-uu
