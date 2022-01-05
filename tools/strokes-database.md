@@ -1,13 +1,14 @@
 # Strokes
 
+The svg here may be old and exists here for educational purpose. Refer to the actual database: fonts.db.
+
 ## SQL:
 ```
 select stroke_name name, '|', stroke_svg svg from tw_strokes order by stroke_name;
 ```
 
 * The svgs are unsatable and likely to change heavily.
-* Just for references.
-* SVGs will be programmed into XML files as used by BirdFont.
+* SVGs will be injected into XML files as used by BirdFont.
 
 ## List of strokes
 
