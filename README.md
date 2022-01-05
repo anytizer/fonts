@@ -1,13 +1,16 @@
 # fonts
 
 Collection of tools and python scripts to produce Devanagari Fonts.
-There are repeated strokes in Devanagari, like, vertical stem, horizontal like etc.
-This project identifies unique strokes used so far a Nepali subset from Devanagari.
+There are repeated strokes in Devanagari, like, vertical stem (danda), horizontal line (dikaa) etc.
+This project identifies unique strokes used so far in a Nepali subset from Devanagari.
+You need to understand basic Nepali writing to understand this project.
 
 This is a proof of concept work where:
-* [] 2 or more developers can design the different characters of a font at the same time.
-* [] Nepali font with a list of database driven strokes per character.
-* [] Fixing font made easy.
+* [ ] 2 or more caligraphers can design the different characters of a font at the same time.
+* [ ] Nepali font with a list of database driven strokes per character.
+* [ ] Fixing font made easy.
+
+There are several hundreds of ligatures possible and designing each character set for them is practically impossible. This project aims to create Nepali fonts with less than 100 basic stokes.
 
 Fonts developed by tracing various images. The images traced were probably found in public domain.
 
