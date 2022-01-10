@@ -1,8 +1,8 @@
-# fonts
+# fonts (work in progress)
 
-Collection of tools and python scripts to produce Devanagari Fonts.
-There are repeated strokes in Devanagari, like, vertical stem (danda), horizontal line (dikaa) etc.
-This project identifies unique strokes used so far in a Nepali subset from Devanagari.
+Collection of tools and python scripts to produce Devanagari/Nepali font.
+There are repeated strokes in Devanagari/Nepali, like: vertical stem (danda), horizontal line (dikaa, Sanskirt: Shiro Rekha) etc.
+This project identifies unique strokes used so far in a Nepali subset of Devanagari.
 You need to understand basic Nepali writing to understand this project.
 
 This is a proof of concept work where:
@@ -12,14 +12,12 @@ This is a proof of concept work where:
 
 There are several hundreds of ligatures possible and designing each character set for them is practically impossible. This project aims to create Nepali fonts with less than 100 basic stokes.
 
+## Old projects:
 Fonts developed by tracing various images. The images traced were probably found in public domain.
 
 * mousewriting - just learning how to make fonts
 * dance - dancers' sillhoute
 * fruits - pictures of common fruits
-
-## Under development:
-* devanagari - to be renamed, built and released
 
 Some glyphs are just referenced (Poppins at Google Fonts), and may appear here for educational purpose.
 
